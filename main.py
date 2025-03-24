@@ -1,11 +1,13 @@
 meme_sozlugu = {
+            "PUHAHADVGADMJA:  "Komik bir olayda gülmek ve rastgele tuşlara basmak",
 
-            "CRINGE": "Garip ya da utandırıcı bir şey",
+            
+            ":P":   "Dil Çıkartmak"
 
-            "LOL": "Komik bir şeye verilen cevap",
+            
+            "xD":   "Alaycı veya komik bir tepkiyi ifade etmek için kullanılan bir şey"
 
-            "ROFL": "ROFL bir şakaya karşılıktır, LOL gibidir"
-
+            
             }
 
  
