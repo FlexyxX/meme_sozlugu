@@ -1,11 +1,14 @@
 meme_sozlugu = {
-            "PUHAHADVGADMJA:  "Komik bir olayda gülmek ve rastgele tuşlara basmak",
+            "xD:  "Komik bir olayda gülmek",
 
             
-            ":P":   "Dil Çıkartmak"
+            "OMG":   "Aman tanrım,şaşırmak"
 
             
-            "xD":   "Alaycı veya komik bir tepkiyi ifade etmek için kullanılan bir şey"
+            "Dm":   "Direkt Mesajlar Demek"
+
+
+            
 
             
             }
